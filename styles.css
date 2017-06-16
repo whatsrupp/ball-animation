@@ -50,6 +50,7 @@ body{
 #ball{
   width: 20px;
   height: 20px;
+  position: absolute;
   background-color:#dff302;
   border-radius: 20px;
   border-width: 1px;
