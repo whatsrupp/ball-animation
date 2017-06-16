@@ -8,12 +8,16 @@ html, body {
   justify-content:center;
 }
 
+body{
+  height: 60%;
+}
+
 *{
   font-family: helvetica;
 }
 
 #title{
-
+  color: #e3e3e3
 }
 .container{
   width: 400px;
@@ -26,7 +30,7 @@ html, body {
 #control-button-container{
   width: 400px;
   height: 25px;
-  margin-top: 25px;
+  font-size: 10px;
   display: flex;
   align-items:center;
   justify-content: center;
