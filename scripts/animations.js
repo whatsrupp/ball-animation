@@ -31,6 +31,10 @@
 
   }
 
+  hasHitEdge = function(){
+    
+  }
+
 
   getBallElement = function (){
     return document.getElementById('ball');
