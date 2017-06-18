@@ -9,7 +9,7 @@ clone it
 
 Alternatively, you can just look at this picture, it's basically the same, except the ball moves.
 
-![screenshot](docs\screenshot.png)
+![screenshot](docs/screenshot.png)
 
 ### 1) Clone Repository
 
@@ -36,8 +36,7 @@ Had a little Jasmine refresher for this one - Spicy.
 
 As with the main project there's nothing much to see, but if you want to run the tests then type in the following into terminal.
 ```
-$  cd
-$ file/location/of/jasmine/SpecRunner.html
+$  cd file/location/of/jasmine/SpecRunner.html
 $ open SpecRunner.html
 ```
 
