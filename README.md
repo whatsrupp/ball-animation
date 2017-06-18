@@ -9,7 +9,7 @@ clone it
 
 Alternatively, you can just look at this picture, it's basically the same, except the ball moves.
 
-![screenshot](docs\Animation Snip.PNG)
+![screenshot](docs\screenshot.png)
 
 ### 1) Clone Repository
 
